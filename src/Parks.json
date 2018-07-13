@@ -1,0 +1,792 @@
+{
+    "html_attributions" : [],
+    "results" : [
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.7002913,
+                "lng" : -73.99669949999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.70832725,
+                   "lng" : -73.99176510000001
+                },
+                "southwest" : {
+                   "lat" : 40.68681704999999,
+                   "lng" : -74.00371349999999
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "82a3fefae28d96a965db2a0ae55430d26e6a1a8e",
+          "name" : "Brooklyn Bridge Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1936,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107403987709589660096/photos\"\u003eDiego Fernando González Ordóñez\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRZAAAA7tMwRKa0w23g01ACpgPfTlgrSEOehWOn8Zq-AQGqQyh_8lfhgwlVFOc48He232-z8_Dw3Xrf9Q1qNilBvcTgmiXLmLjA5fEuLtGJmnsHMsZG9SSGsr_N3NScHrJOwOApEhB4fx3NH7yL1xTopWqNTpUNGhTL6H8OqKkmr6kaIJeB6X8e3dIawg",
+                "width" : 2592
+             }
+          ],
+          "place_id" : "ChIJjaFpo0ZawokRBcOFUZ13CaE",
+          "plus_code" : {
+             "compound_code" : "P223+48 New York",
+             "global_code" : "87G8P223+48"
+          },
+          "rating" : 4.7,
+          "reference" : "CmRbAAAAG51kHy-VeKGwYqSo3dH9jfEuPkXAxkvJ3_FsEHlImrAnWuiss7LT3Ol7YqLPhwJ-_E0QES9EEJZQ6Tqlo6vkuMreDY-0yvBm9131M7JVb7UQlah9JwsVaoHeI7uH9n_sEhAmYr3UrrgWYeZDXxjagi-VGhTc3DxvMENlafw3b3ThxyTZXSR1Yw",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "334 Furman St, Brooklyn"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.7828647,
+                "lng" : -73.9653551
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.81804399999999,
+                   "lng" : -73.9339825
+                },
+                "southwest" : {
+                   "lat" : 40.7473416,
+                   "lng" : -73.99703049999999
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "c9bcef33f0cc85eda31f1c7444e9b1a3b82c9a9f",
+          "name" : "Central Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2050,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102206417105825811116/photos\"\u003eMike Scott\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAmno948wVUtV_c9Lb5D72x1ThxSUnZONrTfbz3aWXLcn86ePF28mkhe_NzshAw3ShFd7lHVYcA9OqyOON9WMT2ZM3H8lnVXFtG9B3wPdHu1CdBZjZt9cVkVwQ3nntY7RUEhB6LnMewiCDzj6HwSlUuDupGhSnPVigNswRAjcAEtrYnegmAtoqag",
+                "width" : 3072
+             }
+          ],
+          "place_id" : "ChIJ4zGFAZpYwokRGUGph3Mf37k",
+          "plus_code" : {
+             "compound_code" : "Q2MM+4V New York",
+             "global_code" : "87G8Q2MM+4V"
+          },
+          "rating" : 4.8,
+          "reference" : "CmRbAAAAlH_EVneuCc16fhmZucqQK-b9qAPT_aStkV6NionzgppVRNPmlmmubwyuY1iWLnJ7kB9losOgmqvqztH3r0b4pqqCtHWubpK_dAykrWTGcnzqMtLD-yqNsyysLl1GID2vEhCPUGa1S7f0Iv02StKXQ86kGhSYI_hoXh2BCzwlBYjTNWmrCpVR9Q",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "New York"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.6602037,
+                "lng" : -73.9689558
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.68326850000001,
+                   "lng" : -73.9533333
+                },
+                "southwest" : {
+                   "lat" : 40.6406205,
+                   "lng" : -73.98822370000001
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "4a94c7dcb6fa8e242c2e232acadaf1f05a0d4536",
+          "name" : "Prospect Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4000,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102211583636695225870/photos\"\u003eBoris Morgenshtern\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAnkeRighPzfKzKTxVPKFHokI5C_0h-l9QNWyg3MeYuYHySgkVfgk8X7mTiPPeNFucSYSASjp6o04_AyjKBCKrOMATuHt87mA1txjE878l4lOpDqdjlIwRa3ygv4jh-bd4EhA3btsDIXsT7PO28fOkrJTxGhRIgeYW3RZHttW45MKr8jmnTX8Utw",
+                "width" : 6000
+             }
+          ],
+          "place_id" : "ChIJQwRohxBbwokRmHrfAMb3ixc",
+          "plus_code" : {
+             "compound_code" : "M26J+3C New York",
+             "global_code" : "87G8M26J+3C"
+          },
+          "rating" : 4.7,
+          "reference" : "CmRbAAAAkmBxFVHEBsbxU9dVWiYvxsY-CdJbfMY6bNKXpQ8W_YC9FZYbfUqJEVZ3craolB5qtItSUB1s-OmqifZEnc0JrFnEzMfW0RKj62kbsjn8yYJS6bRibAxCi9ayEfv_-sSiEhBMp0ghAJkFw6lqHr_USJ9aGhQp94CztmIRoD6PyJeuzxggcuqEFg",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "Brooklyn"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.7535965,
+                "lng" : -73.98323259999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.755549,
+                   "lng" : -73.98135400000001
+                },
+                "southwest" : {
+                   "lat" : 40.75198299999999,
+                   "lng" : -73.9857532
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "f450a4290a3af961748f0eb93931479d2898e990",
+          "name" : "Bryant Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4000,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102870295327548329469/photos\"\u003eMaria Kersanach\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA98_jlEkWeSymCDwpzdee6x9Y0g3Y3-4VQr8evKhE5ML947o6CheBBusLRBRXcosXJmLQgDQVEaDHxXf9LSf-SheNZGlNN0Y0TcRGULcoSX8Hpam7b5LWWYbwA8BPnY_HEhB8F8_Ka-DSGGtphGtuZQtEGhTbZvUTeWocyfhMleg1JZj6J-5GDQ",
+                "width" : 6000
+             }
+          ],
+          "place_id" : "ChIJvbGg56pZwokRp_E3JbivnLQ",
+          "plus_code" : {
+             "compound_code" : "Q238+CP New York",
+             "global_code" : "87G8Q238+CP"
+          },
+          "rating" : 4.7,
+          "reference" : "CmRbAAAAd3wkJXc1Ag6V3C7L1ijYMYq_pRAQ4KxYobDF6nhZ98GNiRsEJBdOKdtyLNYm9P3hcQTODHhWumXPvKOCYh1RgE4oqQLBh6tgBVjW79zzf_sPhaMcV4G321cS8gdn5OayEhDW4TfK8uKbT_RedGGygHI9GhR0P0iaVAWJ2l3CVCl9pqshq4gCug",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "New York"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.7308228,
+                "lng" : -73.997332
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.7333674,
+                   "lng" : -73.99379465
+                },
+                "southwest" : {
+                   "lat" : 40.72847220000001,
+                   "lng" : -74.00132524999999
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "b0df149329a0f6a4006cc5328e3d42acadaf1b4f",
+          "name" : "Washington Square Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 433,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118285160021760966705/photos\"\u003eissepe\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAv7_61f3WNGlZxUB-xqvQ0PKMlxjWORcI9pB_YBzwtLodJuUBpCrQpxwYGG2qbq9nvqSntIeg60TvuBhfMSsyq4nuadyj-5cR05zNNu1-n7aWLBeke1DE-KOp7JE0U4OkEhCTvbHFWZdnhPFL9sqjjlm4GhQ9V4HyZd6ZH5s9GRHyuqGaMKbOJg",
+                "width" : 650
+             }
+          ],
+          "place_id" : "ChIJjX494pBZwokRGH620d9eYfo",
+          "plus_code" : {
+             "compound_code" : "P2J3+83 New York",
+             "global_code" : "87G8P2J3+83"
+          },
+          "rating" : 4.6,
+          "reference" : "CmRbAAAAfm4n85_CkQxFsN3-2LfinbQ8ftCOqCDMk4GqwL2FXZMer_U0kwX-qnL_CUTp9eVuBmKgbzIP8xr46ENTLSndsfZSVjLHvK4FQm1ozgaHZjQDVIPVy6ks00eIcVQTAor4EhAGVlkN7YExy-yqKdWA1G4IGhQRislm5Ai4ZF_NDVOMqrAtUCiqLg",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "New York"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.7032775,
+                "lng" : -74.0170279
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.7065562,
+                   "lng" : -74.01239500000001
+                },
+                "southwest" : {
+                   "lat" : 40.6995454,
+                   "lng" : -74.0186978
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "58fc4a0c3ef0ffc426a52c0ea131e1bd7b8d7084",
+          "name" : "Battery Park",
+          "photos" : [
+             {
+                "height" : 2976,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101084542743927658796/photos\"\u003eMika Ho\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAIaBM63W890PcXNe0hvGP5JVp-S9MsMjJVVcS6mqmrpGSDv4paNIL4lX7SWsK_ZtggxG0HI5rdMMBo83D4eMOku8woUks6cOMzlG1z9fUAcllonov1OVTrD8l_5ALxuh_EhCzaOrqTlKLmdBsSwRiIA0AGhRK46MlhYojLzdKx6C4k2U1aTUCGA",
+                "width" : 3968
+             }
+          ],
+          "place_id" : "ChIJraKL-BJawokREpxDmF5GcL4",
+          "plus_code" : {
+             "compound_code" : "PX3M+85 New York",
+             "global_code" : "87G7PX3M+85"
+          },
+          "rating" : 4.5,
+          "reference" : "CmRbAAAArc3fMj6U-7uMWIcMjXw0KioYfmIXzZpFMKLH9ewmgOhXgVloLOcd-XDnGe7eehVAR11Dzo2cuFfy5iZXgLS5dtu3M8Lq_MIW8raYOA6n7VALUY1-jJAbTN3RYjN7i9BHEhCbVWGuOe7t-o99l8I9CoM-GhT1DIZ8jfx_EEUA11ZPVwflOknE8A",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "New York"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.7030799,
+                "lng" : -74.0537191
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.70442972989273,
+                   "lng" : -74.05236927010728
+                },
+                "southwest" : {
+                   "lat" : 40.70173007010728,
+                   "lng" : -74.05506892989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "e7539217f8ef39259dad09df9f260895a12cdd30",
+          "name" : "Liberty State Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4016,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108257912701039197087/photos\"\u003eRufo Lomahan Jr\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAaKIw-J8ZCCxRNxsG7NuZ-a_QSBLqUnN_-g4xIn2X0rFl2PKxQRJMScoQrYBQBLjOEDx4wys5i8Tbxf8g6bKwXfH23nH1IMRplPX0K79iWcdhMSyZztdlQ3BsyfPRM7UeEhBclK4z7fjbv65aGGPxlVv0GhS02GgveyN1epA14L3D-yVvrzNU_A",
+                "width" : 6016
+             }
+          ],
+          "place_id" : "ChIJo8sCS5NQwokRzK_a4MI1YL0",
+          "plus_code" : {
+             "compound_code" : "PW3W+6G Jersey City, New Jersey",
+             "global_code" : "87G7PW3W+6G"
+          },
+          "rating" : 4.7,
+          "reference" : "CmRbAAAATHjerN-rmkhwB18N_VmKtEI3UWOxjUzoIheUyJwH4_PsoLMWsN7CWO7MO3aXfW8CH7R7TRGQGwVHKF8QguLo-MVSFNmy53yaXaooYSD3Sj30QK74L0MxHeUEJdLSssuvEhDzbG-aa_5ee8rNqUT2J42nGhS9Uc7a9-xlxi9GMiOcMmOV13mhOg",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "200 Morris Pesin Dr, Jersey City"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.691396,
+                "lng" : -73.97494399999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.6953107,
+                   "lng" : -73.97096090000001
+                },
+                "southwest" : {
+                   "lat" : 40.68774669999999,
+                   "lng" : -73.9797981
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "d5f29c70ef69a83f8317ade5179a095f99d51367",
+          "name" : "Fort Greene Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1836,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114817594720939417041/photos\"\u003eLaura Harreld\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAO3n3B7OMoLF42BbFGuAJAGc1jaxDThFPLRWZlfl61tD7d0-7yqFdqCPznmINBUGedan8X3Oam2zIORQhod2PvxsyMKaGtTC9jdJzafrWLA65PgDHIlOr5U2KEs463Yu5EhD8YDY2QHTfw-MUTLLGYp5PGhTGwOQ6JZ6zbNz4m-2MoHvdMbxF1A",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJvf6v7bZbwokRUO0-u24i73g",
+          "plus_code" : {
+             "compound_code" : "M2RG+H2 New York",
+             "global_code" : "87G8M2RG+H2"
+          },
+          "rating" : 4.5,
+          "reference" : "CmRbAAAAJoECg4ZCI93sjIXIb_EzFUP3FTeRwz3mL5kIpKmr86VWzsOgRjnW7PR3A997WtEiCWjOntLjkIUIvcW58_OgfuyYbvczma5r205baQArJb_obLzlrKZtzM6c6iiXQEzsEhAS8GsN141QBBypiwaf6mAoGhTd8vM3EoATSTbzhSWHrPcVjAZA9g",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "Washington Park St, Brooklyn"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.6871362,
+                "lng" : -73.9770341
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.68839212989272,
+                   "lng" : -73.97566622010727
+                },
+                "southwest" : {
+                   "lat" : 40.68569247010728,
+                   "lng" : -73.97836587989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "0c0b6b9c2d8754883cac829204dd9372100455d7",
+          "name" : "Bam Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3120,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113052795878594565559/photos\"\u003eSantos Beato\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAiqSXU2N9VOGI9nOa-7u1uMm1L-sOv5Se4IvO8y2azuhouXKnV50BehjWM9OVWy0MLf0tJyTY_7gKyBriXWaKyAJ5OxnU8C33-GH5snUbi8JhOXEq6pF8bmMzCuykHF2gEhA1RWUJANjqvO7jJp1nsdyYGhSwswt8YvcAmE7YdOZW0Pq2POQBLg",
+                "width" : 4160
+             }
+          ],
+          "place_id" : "ChIJX_wwgbFbwokRhxEJt1cwFiw",
+          "plus_code" : {
+             "compound_code" : "M2PF+V5 New York",
+             "global_code" : "87G8M2PF+V5"
+          },
+          "rating" : 3.6,
+          "reference" : "CmRbAAAAQBj3HBpf4S6oEfIXit60BAyc0Ent1b2vngNUWub7eO5KBEj90f_Psw2FS0dbQ0q01rpPBDGvsNKT6kaNwHA_LEkS6JNQbyfSNiRM-8klqdyi7FalZkjJXx2tpQCbgeYMEhCufFIuTmjyTHKT5g0WjV2jGhTLTVf_43KGHYkLZ3wD7MYEIkDxRw",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "38 Lafayette Ave, Brooklyn"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.6948689,
+                "lng" : -74.0017282
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.69583157989271,
+                   "lng" : -73.99989027010729
+                },
+                "southwest" : {
+                   "lat" : 40.69313192010727,
+                   "lng" : -74.00258992989272
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "ee5de6cef5e9acd0820f0f293b5788f06f027bab",
+          "name" : "Brooklyn Bridge Park Pier 5",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 949,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105548795809059747488/photos\"\u003eYouhee Lee\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAExZyCFuGh_EHA7v2lPkYf44LVHUZ0cpPa4Elanz4i3dq-_4EzxzE2XfhTA5wXg6mvu3mS4rOBQfXx-LjzsDbgZhjOU7wQCPJx7vL_jrUzJny0qgdr8rcCak9wkT0tJM0EhCShL-7CNgdWseYvdlSBtUBGhRWmsbu2Bcdojv-mgZBwSBpH9XlYg",
+                "width" : 1265
+             }
+          ],
+          "place_id" : "ChIJ7xUqN0FawokRZ375s2i4ysg",
+          "plus_code" : {
+             "compound_code" : "MXVX+W8 New York",
+             "global_code" : "87G7MXVX+W8"
+          },
+          "rating" : 4.7,
+          "reference" : "CmRbAAAA_JZQGwG7UPFkW7RqGT88JGS_G25ALRgjWwl4O3zbSyLI6-RkMcwUSxfs4eoeHWJy4rL-Xd2aPE-CV4_fWlcsR016QDF_NQmLV5jeDe2uoFl1PIP9f-NpdgS2mYSqMWsiEhDsXDWEjPOSPvf_e_BOIJvcGhTCqHFhBog5ZiIOfwF1BKMMG-3Y9g",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "amusement_park", "point_of_interest", "establishment" ],
+          "vicinity" : "334 Furman St, Brooklyn"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.7029613,
+                "lng" : -73.9949259
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.70427852989271,
+                   "lng" : -73.99350312010728
+                },
+                "southwest" : {
+                   "lat" : 40.70157887010727,
+                   "lng" : -73.99620277989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "4ae6f2044f3b3ea8459c59356ad0281b948aacbc",
+          "name" : "Brooklyn Bridge Park - Pier 1",
+          "photos" : [
+             {
+                "height" : 480,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109673567366415704055/photos\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAcnGKfglnsdaLYCOAgDqwykunsq5E1SChH4j1vGia-qyjkmLguV7b9sdw53_V94CthvTI-7yZu7ZTIIYbBxFkKBdhbefRr7--pkbrDjTS9OBO_7iAHWLjIYpjr8GrwmbyEhCEBNtLTOPYMJ61yFf0lI2aGhQsAmQ6ihI-B_P6JwOpYcUaOuJ4Og",
+                "width" : 640
+             }
+          ],
+          "place_id" : "ChIJH5q1BzpawokR4ffTuJzssbQ",
+          "plus_code" : {
+             "compound_code" : "P234+52 New York",
+             "global_code" : "87G8P234+52"
+          },
+          "rating" : 4.9,
+          "reference" : "CmRbAAAAD2qIOL3yQAxEyUEuOS9btjfrSk9E9nU7RDyHc3numCEfRP2k5f6lxMpnz8nR9uBcpvnWsISSdN_SRg5tEm2R5D6fXykn1gPUasO65WD1gQtq3Pe-UpS5akK_fjj-uontEhDKdSGGTo9d2tAA9Fin7KFyGhQa8gAaIjPX3u3tN5dgYStajM4aaA",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "2 Furman St, Brooklyn"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.7479925,
+                "lng" : -74.0047649
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.7588822,
+                   "lng" : -73.9986873
+                },
+                "southwest" : {
+                   "lat" : 40.73290899999999,
+                   "lng" : -74.01141530000002
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "72dc79d023feec77725d7336e7c46fee27805319",
+          "name" : "The High Line",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1667,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116555933823459062874/photos\"\u003eROMUALD OURADEI\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAArxaZ6zukuERxpyHkKlWt5SSSVA9Hg0-Uyp0y2LaZ01dBUkweTztL8rvVUDrJcNiZ0P8qADUHbGdQhc0vko-0vfJcws6IKg-dvLvX8oivQ9c3KquD737cjKcGvDvCYFpbEhBe_x4wosMjTLAAHOhA5uf_GhRwpw4w8ZEuQRK0S19eJmJv1B5hXw",
+                "width" : 2500
+             }
+          ],
+          "place_id" : "ChIJ5bQPhMdZwokRkTwKhVxhP1g",
+          "plus_code" : {
+             "compound_code" : "PXXW+53 New York",
+             "global_code" : "87G7PXXW+53"
+          },
+          "rating" : 4.7,
+          "reference" : "CmRbAAAA7kMQdcwebZiQPneFLpWdGJsJ3OvygPeelqcVeshNugv5T5X_PrpMnj51fV7oShNM3SDMO9AdhFCgzmF4t2Qb4OYu6sK6d_DZdSJZyDUa3MAvWmVc50IHrp40JsIg32KKEhBVnkrDTrvg3E0CObC-A9ZLGhSOqFeomQF4-LgJ0dNl3XFsspfAuQ",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "New York"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.7420371,
+                "lng" : -73.98756349999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.74409214999999,
+                   "lng" : -73.98618055
+                },
+                "southwest" : {
+                   "lat" : 40.74071195000001,
+                   "lng" : -73.98982275
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "abd931421034043d086a5e1ad376a68b064a5f57",
+          "name" : "Madison Square Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2988,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115669779561965803211/photos\"\u003eKin Tsui\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAALknMq7rUpjFarPiF3yf_duerIhcmimqOSCQuoxvW88PE3IjF6AbTZpIjDGWeqP-DWFvUSQ6w0gsZofH9HHgehroJgn7HdwYlp9W8lFpKK2Y5kWBbCVExLMVLRhxCJVFrEhDVexpC1WWdKeIIddtoX0B3GhT8zVy68CrsTRu3c-ohsakBUbeewQ",
+                "width" : 5312
+             }
+          ],
+          "place_id" : "ChIJp32RvaZZwokRfH0Zgzl9mXk",
+          "plus_code" : {
+             "compound_code" : "P2R6+RX New York",
+             "global_code" : "87G8P2R6+RX"
+          },
+          "rating" : 4.6,
+          "reference" : "CmRbAAAAWgSpejQQbBsZBsuT3mhqtRRea1j593AwFg3njuMMSVEaCOfifYNWS4dg7EePvWa_StyccqTFhgmD7RkJ5xNqADZShKpC5-BWklofW7-Fs9Xq2jS0xZ20UkjOwiLE_hUAEhB8VvReqiO7W_qfOfnf7IKBGhRbTNLaZ93mS0oVFeS_6OI1Li4pWw",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "11 Madison Ave, New York"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.7602157,
+                "lng" : -73.9751349
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.76153142989271,
+                   "lng" : -73.97380997010728
+                },
+                "southwest" : {
+                   "lat" : 40.75883177010727,
+                   "lng" : -73.97650962989273
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "419df35f8d8721a1551348a9b917a90abf67deea",
+          "name" : "Paley Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4048,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109979007372693871283/photos\"\u003eStephen Matzat\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAASuzyFGMlVTCxnei6fMUL5NssS4QufKYmWc6x4fP_xVrA_aVygM6uVUCi0yH28kYCL49H1Jv90eada0qZ1h6zwYI5vfor1I5MMpGuEgu9rRQE_9Dy-88Bf65LiweFeWtpEhDfiU6xt8Dhi5sEqMSf2AZ5GhRU8fcFCGyhWoKlbUPanid2HDNUxQ",
+                "width" : 3036
+             }
+          ],
+          "place_id" : "ChIJcUYGvftYwokRXvGL1B_cN2o",
+          "plus_code" : {
+             "compound_code" : "Q26F+3W New York",
+             "global_code" : "87G8Q26F+3W"
+          },
+          "rating" : 4.4,
+          "reference" : "CmRbAAAAf-D9aILJA19janTHGYqN2ldxC8YZvkFzFH4C1FweKJwPihAAmzR_PpJxrp1EVzHxKGGMTDt8sJraIC1q7MVu7tEun0ipldfjqvJwADQYQs_yTTFhUgizW2HQ4PCKPXkmEhA6Hv2ZvIU7SxoIB5a2icRpGhTnnihlYleBS2dRbFUi33VDVTLy-g",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "3 E 53rd St, New York"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.7076028,
+                "lng" : -74.00366269999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.70899317989273,
+                   "lng" : -74.00238317010727
+                },
+                "southwest" : {
+                   "lat" : 40.70629352010728,
+                   "lng" : -74.00508282989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "fbfafa1c48b0a0ac5aa1614c6d6d517e764a20d9",
+          "name" : "Titanic Memorial Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108427399698816213863/photos\"\u003eSatish Shikhare\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAajrdOQw_R8-pr0wA0E7ca1guh-3l8qc45g4a95JiIu2oT4soFEgtlUdlRy2t-vLNgWFyxd4k6Tzc8n_Iob4y3jQyPwVrV2rlJLmEt0jFiei8xm0c59O4lVokYIDFFXQzEhBadIHzrK1YF4q9twOuJaLgGhQtnhAgH1shrkn1YBjdhLoCMLhvhA",
+                "width" : 3120
+             }
+          ],
+          "place_id" : "ChIJMz1aID1awokRURWyeqgtAGU",
+          "plus_code" : {
+             "compound_code" : "PX5W+2G New York",
+             "global_code" : "87G7PX5W+2G"
+          },
+          "rating" : 3.9,
+          "reference" : "CmRbAAAAZW2ZAkZEXzXrRqce_gd97KAvjjZeH-gIbfzKVW0uXv_iK4PH243mQmGvtXQJre7Xu8s-hJ29wiJejf-9xHftxqXjPbsLWxYk4Sq_YcguDRVguxRGUp8jymX9nXMHblxWEhB4Vj7fzcWxTAybmCTTvnkpGhTZyUAOdJ6duI15IlFSyuGkkKllWw",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "Pearl St, New York"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.7792459,
+                "lng" : -73.9229654
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.78601625,
+                   "lng" : -73.91316969999998
+                },
+                "southwest" : {
+                   "lat" : 40.77183005000001,
+                   "lng" : -73.93258010000001
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "e32486c0c25fd7387d5dd89f678197cc75d04e3d",
+          "name" : "Astoria Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1800,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114853578405381943743/photos\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAOSfwKGFhc_t3k6npphgRTgZlJd32JC4i4GnYliCLQ7d8YsFXRxLiSpmmH9W_Gmz8HLnBHLcoz7DsdpuVunFdUOxS4xbSu-Uz1-xBOZDvE03iMSGZwN6fv05kHOZn7ok9EhCl1DHxqOvcvauWVcbd6XumGhThikqkv6VCLUsX7hcpw8Ff0hXpyQ",
+                "width" : 2704
+             }
+          ],
+          "place_id" : "ChIJhTKnW1pfwokRybwkvof4QWs",
+          "plus_code" : {
+             "compound_code" : "Q3HG+MR New York",
+             "global_code" : "87G8Q3HG+MR"
+          },
+          "rating" : 4.6,
+          "reference" : "CmRbAAAAxOTgbNcRWwwAtx1Durx5GrC1OANkRQbOgI1js79dUJ0ol6lrSRweSqip-rKjvQNnV_H6D5iUFR6vcIUJ7dNRlZErZHycpkZhc8YfsLlkvRZnpN6nC7lt2b4PEpq4OELPEhB1bjuUJrWDKu0wdCtxAfBcGhSS3B8WdYLohI-6ycldR2aedQNqdQ",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "19 19th St, Astoria"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.69732399999999,
+                "lng" : -74.0579862
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.69868462989272,
+                   "lng" : -74.05662587010728
+                },
+                "southwest" : {
+                   "lat" : 40.69598497010728,
+                   "lng" : -74.05932552989273
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "7bbcb96c06f6cfe40a39606f84390b5250b3b03c",
+          "name" : "Liberty State Park Reserve Pavilions",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3780,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106071649843748511927/photos\"\u003ehumberto escobar\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAynyyxgKMXGuN1eZq-XG_B7V42PYjOG3-T-cWkGc_0ATt_lD4wcIHnxuDuh5WUDgkDnas_XYytQDKb1TuqW8tkKUdSjFUCxhxkJ31l0A05bNX-nWFbJoNj9b-JMoQmimGEhBIamfuTJHej6v2i5Zg09FLGhSW7X9fQhrrssdIcTXLdT_NvG0Acw",
+                "width" : 6872
+             }
+          ],
+          "place_id" : "ChIJkavE7O1QwokRDAfspJzRF7A",
+          "plus_code" : {
+             "compound_code" : "MWWR+WR Jersey City, New Jersey",
+             "global_code" : "87G7MWWR+WR"
+          },
+          "rating" : 4.3,
+          "reference" : "CmRbAAAAfw2Bys88rTkL6LlUwHyMQcTNZWKABjlt99JRsC_3bTQ1_MXenSbhvsM6_IC7TW1KRpvjTEFH51pQ0nUp5Q0lXMmViHCiFpXK6xVVR48iw68tDpWJ5Yhwe1-6sXts3AJ7EhAMwqH2iod9CDIVGVNWx46fGhRepXxBgXnNW4j8_ytdASKbbdJ0XA",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "20 Theodore Conrad Dr, Jersey City"
+       },
+       {
+          "geometry" : {
+             "location" : {
+                "lat" : 40.8055893,
+                "lng" : -73.8882407
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 40.80718152989272,
+                   "lng" : -73.88736842010728
+                },
+                "southwest" : {
+                   "lat" : 40.80448187010728,
+                   "lng" : -73.89006807989271
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+          "id" : "9d7bd647e4124499afe149dc78bd95cc1c5085d1",
+          "name" : "Barretto Point Park",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1836,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/100238104410579364312/photos\"\u003eJoseph Mayer\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAEOFcr7MyLnYS7ovanIOzAHz1jEJmLxERBaR8RWrO3USh7VPebM8fpSsDxtBCXr_rDTWJ513ukPUQI87NbXJZFyKC7Rx666AB2_PbOPkUFNroFJrkifGSJ-0nszH3afgFEhDsOlQNpOkJpOG_pZrKINCuGhQ7rwMaNPqJYK22jBW9idhYPZaPXg",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJLXTOHAr1wokRlxL_AUATemc",
+          "plus_code" : {
+             "compound_code" : "R446+6P New York",
+             "global_code" : "87G8R446+6P"
+          },
+          "rating" : 4.5,
+          "reference" : "CmRbAAAA_Au1YhN5FcO8NZwaqwPg3VlISI2hHNU__0xxqZNTjV7JK0pQwZm2ccr9WwJiJvUZ8YFQax_oatLAqwBoEbsAgX9Gg3Ug7goSm60LSFow_wCeNlZV6wgDIO7zzG3k7EEPEhCq70pnOTMW013Kh1bEecfOGhSWOzOHcqMEVF_DkKIjWpLSs7_3nA",
+          "scope" : "GOOGLE",
+          "types" : [ "park", "point_of_interest", "establishment" ],
+          "vicinity" : "Viele Ave, Bronx"
+       }
+    ],
+    "status" : "OK"
+ }
